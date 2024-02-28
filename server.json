@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "description": "Salario",
+      "price": 2000,
+      "category": "Sites",
+      "type": "income",
+      "createdAt": "2024-02-27T23:50:42.650Z",
+      "id": 1
+    },
+    {
+      "description": "Salario",
+      "price": 1111,
+      "category": "Casa",
+      "type": "income",
+      "createdAt": "2024-02-28T00:16:27.004Z",
+      "id": 2
+    },
+    {
+      "description": "Carrossel Tabs",
+      "price": 1000,
+      "category": "Casa",
+      "type": "outcome",
+      "createdAt": "2024-02-28T00:16:47.143Z",
+      "id": 3
+    }
+  ]
+}
